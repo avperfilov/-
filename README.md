@@ -44,7 +44,7 @@
 
 ### Customer Behavior Analysis for E-commerce
 
-Репозиторий: ...
+Репозиторий: https://github.com/avperfilov/Portfolio/tree/main/Customer%20Behavior%20Analysis%20for%20E-commerce
 
 Проект по анализу данных интернет-магазина с целью выявления факторов, влияющих на ключевые бизнес-показатели.
 
